@@ -1,0 +1,9 @@
+*.pth
+*.pyc
+/__pycache__/
+./models/saved
+*.mat
+*.txt
+*.jpg
+*.png
+*.pth
